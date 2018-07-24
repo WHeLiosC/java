@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/huffman/BinaryTreeBasis.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/huffman/TextZip.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/line/Point.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/primenumber/primeNumber.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/translation/lib.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/writetest.txt" charset="UTF-8" />
+  </component>
+</project>
