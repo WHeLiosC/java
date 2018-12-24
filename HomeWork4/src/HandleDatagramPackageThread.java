@@ -7,7 +7,7 @@ import java.util.*;
 
 /**
  * @author 李辉
- * @version 2017.7.19
+ * @version 2018.7.19
  */
 
 // 只负责对心跳包和数据包进行处理，不负责接收
