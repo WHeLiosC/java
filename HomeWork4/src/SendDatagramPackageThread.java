@@ -8,7 +8,7 @@ import java.net.InetAddress;
 
 /**
  * @author 李辉
- * @version 2017.7.19
+ * @version 2018.7.19
  */
 
 public class SendDatagramPackageThread extends Thread {
